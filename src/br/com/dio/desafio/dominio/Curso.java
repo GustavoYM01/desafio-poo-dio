@@ -15,8 +15,6 @@ public class Curso {
 		this.cargaHoraria = cargaHoraria;
 	}
 
-
-
 	public String getTitulo() {
 		return titulo;
 	}
